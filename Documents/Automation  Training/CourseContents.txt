@@ -1,0 +1,29 @@
+
+
+Basics
+    Psycology with respect to learning
+    Computer basics
+        computer hardware
+        Operating Systems
+        Files
+           csv, yaml, xml, json
+   Computer networking
+   		ip address, port number
+
+	Manual Testing
+		Web applications
+		Databases
+		   SQL
+		Web Services
+
+		Testing Methodologies
+		   waterfall and agile
+
+   Java programming
+       java basics (core java)
+
+       unit testing frameworks ( junit, testng)
+       Cucumber and Gherkins
+
+       Selenium
+       Rest assured / Karate

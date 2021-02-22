@@ -1,0 +1,73 @@
+tool pattern
+
+  What and how 
+  how do I do it
+     we use a tool/software /app/application/program/script/code
+
+     how to see files on the hard drive
+        -- we use (Finder)  (File Explorer)
+
+        -- browsing internet (Browser -- Chrome, Opera, Edge )
+
+        -- edit text files (Editors -- notepad, sublime, textpad, notepad++)
+
+        -- to write code ( IDE --  eclipse, intellij )
+
+
+
+Operating System
+   software that helps to interact witt the CPU 
+
+   -- input some    keyborad and mouse 
+   -- output         monitor/screen
+
+   -- saving files 
+
+   Unix/Linux  ------    OpenSource 
+   Windows     ------    Microsoft   DOS 
+   Mac OS      ------    Apple
+
+
+   Finder 
+   How to add user to mac os (System preferences)   Control panel
+   5 things that you can do with Sytem preferences
+
+
+   --- can I partition my harddrive
+   --- can I see my CPU load and memory usage
+   --- can change the Desktop & Screen saver
+   --- Can change the terminal Apperarence
+   --- can see the screen time
+   --- can add user 
+  ---- can give access to microphone and camera to applications
+   --- can adjust the input and output volume
+   --- spot light find anything easy on mac
+   --- Arrange multiple displays,set resolutions and brightness
+   
+   ---- basics of Mac OS
+   ----command-spacebar for quick search
+   ----command -M to minimize the windows
+   ----option +command+M to minimize all the windows
+exercise:
+  find me 10 applications and their market names
+    editor -- sublime, notepad
+    browser -- chrome, IE 
+    IDE -- eclipse , intellij 
+    
+    social media - Facebook,Twitter,youtube,instagram
+    messaging - whats app,Telegram
+    video sharing  - skype
+    Music  - spotify,pandora
+    Movies - netflix, Amazon prime
+    shopping-Target,walmart  
+    mapping -google maps,apple maps
+    vedio conferencing - webex,zoom
+    email - gmail,microsoft outlook
+    photo editor - snapseed,livecollage
+
+    not open with browser
+        skype, spotify, pandora, outlook, 
+        sheets, word, IDE, editors
+
+
+

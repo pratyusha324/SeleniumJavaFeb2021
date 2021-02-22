@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Rob",
+		"address":{
+			"stno": "123 st",
+			"city": "pam beach",
+			"state": "fl"
+		},
+		"accounts": [
+			{
+				"type": "checkings",
+				"bal": "1000"
+			},
+			{
+				"type": "checkings",
+				"bal": "1000"
+			}	
+		],
+		"creditcards": [
+	        {
+				"type": "visa",
+				"bal": "1000"
+			},
+			{
+				"type": "mc",
+				"bal": "1000"
+			}	
+		]
+	},
+	{
+		"name": "bon",
+		"address": {
+			"stno": "123 st",
+			"city": " raleigh",
+			"state": "nc"
+		},
+		"accounts": [
+         	{
+				"type": "checkings",
+				"bal": "1000"
+			}
+		],
+		"creditcards": [
+	        {
+				"type": "visa",
+				"bal": "1000"
+			}
+		]		
+	},
+	{
+		"name": "Rob",
+		"address": {
+			"stno": "123 st",
+			"city": "tampa",
+			"state": "fl"
+		},
+		"accounts": [
+	        {
+				"type": "checkings",
+				"bal": "1000"
+			},
+			{
+				"type": "checkings",
+				"bal": "1000"
+			},
+				{
+				"type": "checkings",
+				"bal": "1000"
+			}	
+		],
+		"creditcards": [
+            {
+				"type": "checkings",
+				"bal": "1000"
+			},
+			{
+				"type": "checkings",
+				"bal": "1000"
+			},
+				{
+				"type": "checkings",
+				"bal": "1000"
+			}
+		]		
+	}		
+]

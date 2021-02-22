@@ -1,0 +1,205 @@
+
+
+tool pattern
+
+ abstraction
+    they abstracted all the complexity 
+       and exposed a simple interface 
+
+-- input and output
+
+-- saving files
+
+abstracts the file saving 
+
+earlier OS
+   the only way to talk to computer was thru terminal.
+
+   you have to issue a command
+
+   <<command name>> <<options>  <<arguments>>
+
+    ls -- list the files in the directory
+       options will change the output little bit 
+
+
+
+   cd -- change directory 
+
+   path -- two types  -- absolute and relative 
+
+   shortcuts 
+       .   --- current folder
+       .. -- parent folder 
+
+
+standard folders will be created 
+   Prgrams fiels , windows, system32 .....
+
+   / home etc bin  ....
+
+
+
+/Users/pratyushakakani/Documents/"Automation  Training"
+
+
+
+
+
+
+
+
+
+
+
+exercise:
+  
+   watch videos or google
+      customize your mac 
+      learn some shortcuts like minimizing all windows at once 
+      otherbasic mac 
+
+customize the terminal 
+
+what are the standard folders installed in mac or unix OS
+
+
+identify 10 folde pairs
+    documents and downloads
+      -- absolute for both folders
+      -- relative path from one another 
+
+    /Users/pratyushakakani/Documents/Automation Training
+    /Users/pratyshakakani/Downloads
+
+     from Downloads to Documents
+      ../Documents/Automation Training
+
+
+     from Automation Training to Downloads
+     ,,/../Downloads   
+
+
+     1)/Users/pratyushakakani/Movies/TV
+      /Users/pratyushakakani/Music
+   
+     from Music to Movies
+     cd ../Movies/TV
+
+     from Tv to Music
+     cd ../../Music
+
+     2)/Users/pratyushakakani/Documents/JavaSeleniumFeb2021
+       /Users/pratyushakakani/Applications/GoToMeeting.app
+
+     from GoToMeeting.app to Documents
+     cd ../../Documents/JavaSeleniumFeb2021 
+     
+     from JavaSeleniumFeb2021 to Applications
+     cd ../../Applications 
+
+     3)/Users/pratyushakakani/Library/Colors
+       /Users/pratyushakakani/Pictures/Photos Library.photoslibrary
+     
+     from Photos Library.photoslibrary to Library/Colors
+     cd ../../Library/Colors
+
+     from Library/Colors to Photos Library.photoslibrary
+     cd ../../Pictures/Photos\ \Library.photoslibrary
+
+     4)/Users/pratyushakakani/Public/Drop Box
+       /Users/pratyushakakani/test_directory
+
+     from test_directory to Drop Box 
+     cd ../Public/Drop\ \Box 
+     
+     from Drop Box to test_directory
+     cd ../../test_directory
+
+     5)/Applications/Keynote.app/contents/Frameworks
+       /Library/Extensions/HighPointIOP.kext
+
+       from library to Application
+
+       cd ../../../Applications
+
+
+     from HighPointIOP.kext to Application
+      
+      cd ../Library/Extensions/HighPointIOP.kext
+
+     
+     6) /Users/Shared/Citrix
+        /var/folders/m7
+     
+     from Users to var
+      cd ../../../var
+
+      from m7 to Users
+      cd ../../../Users
+    
+     7) /tmp/webex
+        /etc/security
+
+        from etc to tmp
+
+        cd ../../tmp
+       
+       from webex to etc
+
+       cd ../../etc/security
+
+     8) /Users/pratyushakakani/Downloads
+     /Users/pratyushakakani/Applications/Chrome Apps.localized
+
+     from downloads to Applications
+     cd ../Applications
+     from Chrome Apps.localized to Downloads
+     cd ../../Downloads
+
+     9)/System/Volumes/Hardware
+       /sbin
+
+        
+       sbin to System
+
+       cd ../System/Volumes/Hardware
+
+
+       from Hardware to sbin
+
+       cd ../../../sbin
+
+
+      10) /Users/pratyushakakani/Pictures
+      /Users/pratyushakakani/Movies/anydesk
+
+      from pictures to Movies 
+      cd ../Movies
+
+      from Movies/anydesk to Pictures
+      cd ../../Pictures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

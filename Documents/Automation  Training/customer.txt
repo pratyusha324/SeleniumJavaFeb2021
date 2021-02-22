@@ -1,0 +1,20 @@
+
+
+Customer
+  customer one
+    name:
+    accts
+      1,2,3,4
+     balanc
+
+
+   customer one
+    name:
+    accts
+      1,2,3,4
+     balanc
+     
+name,acct1,bal1
+part,checkings,1000
+kakani,savigns,2000         
+     

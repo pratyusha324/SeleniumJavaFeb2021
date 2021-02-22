@@ -1,0 +1,146 @@
+
+
+base diagram
+
+      
+                ----   ---
+               |apps|  |  | apps   
+            ----------------
+           |    OS        |
+      ------------------------
+      |      h/w             |   cpu   RAM    HD 
+      ------------------------
+
+any computer
+   laptop desktop server workstation computer pc terminal 
+
+   everything is 1 and 0 in computers (binary)
+
+   4          ---  100    decimal into binary 
+
+   0 1 2 3 4 5 6 7 8 9    -- - 10 symbols
+
+   10 11 12 13 14 15 16 17 18 19
+
+
+
+   20 21 22 23 24 25 26 27 28 29
+
+   100   1 2 3 4 5 6 7 8 9
+
+
+   0 1                    0 1 2 3 4 5 6 7  8 -- 1000
+
+   10 11
+
+   100 101
+
+   110 111 
+
+   transistor ---- 1/0   
+   bits ---    8 bits --- 1 byte 
+
+
+   1000 bytes --- 1kb
+   1000kb ----- 1mb
+   1000mb  ---   1gb    ---- 8gb
+   1000gb -----  1tb
+
+
+11111111    --- ??
+
+254       ---- ?? 
+
+
+8 bits --- 1 byte    8 bit systems
+
+64 bit OS -- 
+
+
+
+Operating System 
+     --- interact with the hardware.
+     CPU   ---  processing unit
+     RAM   ---  memory
+
+    hard drives -- permanent storage device 
+
+   interfaces 
+
+
+tool pattern
+   whenever I want some task completed or need to do something
+     there will be tool/sofotware/app
+
+
+what and How
+   what is it?
+   How do you connect a keyboard and mouse
+      USB     --- h/w interface 
+
+
+
+
+
+ 
+
+
+
+exercises:
+   google and learn how to convert decimal into binary 
+     binary to decimal 
+
+   find the names of various interfaces on different computers (mac/windows)
+     vga -- monitor 
+
+Ground hog day 
+
+
+hardware interface connectivity
+    keyboard ----- USB  ( )
+                   PS/2 
+                   Bluetooth
+    
+    Monitor  ----- VGA
+                   DVI
+                   HDMI
+                   DISPLAY PORT 
+                   USB-C
+                
+
+    printer  ----- USB,Bluetooth,parallel cable, shared printer access
+
+    a router/internet/another computer ---cable,modem and port- WAN
+
+    Wired  --- rj45 
+    Wireless
+      NIC (network interface card)
+
+    a weighing scale ---- COM port (POS)
+
+
+
+    Speakers  ---- Bluetooth
+                   USB cable
+                   audio jack 
+
+
+    internal harddrive --- hard disk and external drive converter
+
+    external harddrive --- USB cable
+                           
+    memory sticks --- USB
+
+     graphic cards (GPU) --- PCI-EX16 SLOT On motherboard
+
+
+
+find put where the router in the home is. how many lan ports are there 
+who  is the provider 
+what is the internet speed you can get max
+
+Internet speed - 
+Provider -
+
+
+

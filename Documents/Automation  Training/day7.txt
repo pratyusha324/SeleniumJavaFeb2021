@@ -1,0 +1,112 @@
+XML
+   DTD
+   XSD -- xml schema definition
+
+   .+  -- 1 or more
+   .*  --  0 or more
+
+
+
+data structure or data model
+
+
+     BankCustomer
+        -- firstname
+        --  address
+                  st no
+                  city
+                  state
+        --  accounts
+       		  1 or more accounts
+       		     type
+       		     balance
+	    --  credit cards
+	          1 or many
+              processor
+              balance
+
+
+bank customre --- 1 address
+
+          1 or more accounts
+            array or list 
+
+data fields
+===================================================================================
+Customer 1
+    Rob
+    address
+        216 some st
+        palm beach
+        fl
+    accounts
+        checkings
+        1000
+
+        savings
+        2000
+
+    credit cards
+    	visa
+    	150.00
+
+    	mc
+    	75.00
+===================================================================================== 
+Customer 2   	
+    Bob
+    address
+        123 some st
+        raliegh
+        nc
+    accounts
+        checkings
+        1000
+
+    credit cards
+    	visa
+    	150.00
+===================================================================================== 
+Customer 3  	
+    John
+    address
+        123 some st
+        raliegh
+        nc
+    accounts
+        checkings
+        1000
+
+        savings 
+        500
+
+        moneymarket
+        700
+
+    credit cards
+    	visa
+    	150.00
+              
+        mc
+        100
+
+        discover
+        300
+
+======================================================================================
+
+Patient
+  name:
+  address:
+  primary physicika
+     name
+     address
+ conditions
+ 	conditaionName
+ 	diagnosis
+bills
+   type lab, office, pharmacy
+   amount
+
+
+

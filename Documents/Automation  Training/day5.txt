@@ -1,0 +1,76 @@
+
+Files: 
+
+
+  file content
+      text 
+      images
+      videos
+      code
+
+
+  give it a name and extention (convention )
+
+  find me 20 extenstions and they content
+
+  
+  .txt   --  text
+  .exe   --  Executable file
+  .jpg   --  Image
+  .jpeg  --  Image
+  .png   --  PNG Image
+  .ppt   --  Powerpoint Presentation
+  .pps   --  Powerpoint slide show
+  .xlsx  --  Microsoft Excel open xml spreadsheet file
+  .xls   --  Microsoft Excel file
+  .pdf   --  pdf file
+  .docx  --  Microsoft word file
+  .rtf   --  Rich text format
+  .java  --  Java source file
+  .sh    --  Bash shell script
+  .py    --  python script file
+  .class --  Java class file
+  .ico   --  Icon file
+  .gif   --  GIF Image
+  .com   --  MS-DOC command file
+  .bin   --  Binary file
+  .msg   --  Microsoft outlook e-mail message file
+  .email --  Outlook Express email message file
+  .sql   --  SQL database file
+  .csv   --  Comma seperated value file
+  .sav   --  Save file
+  .Xml   --  Xml file
+  .zip   --  Zip compressed file
+  .pkg   --  package file
+  .mp3   --  MP3 audio file
+  .oft   --  Microsoft outlook e-mail template file
+
+  
+  text data --
+excercise
+
+  standard folder structure in Unix
+
+/root – The home directory of the root
+/bin – Binaries 
+/dev – Device files
+/etc – Configuration files
+/usr – User binaries and program data
+/home – User personal data
+/lib – Shared libraries
+/sbin – System binaries
+/tmp – Temporary files
+/var – Variable data files
+/boot – Boot files
+/proc – Process and kernel files
+/opt – Optional software
+/media – Mount point for removable media
+/mnt – Mount directory
+/srv – Service data
+
+
+
+
+
+  find me 20 extenstions and they content
+
